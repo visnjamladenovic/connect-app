@@ -145,6 +145,7 @@
       <path value="$PROJECT_DIR$/src/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/src/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/src/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/src/vendor/laravel/breeze" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
